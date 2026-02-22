@@ -38,3 +38,8 @@ pip freeze > requirements.txt
 Тобто при коміті ми їх ігноруємо, бо це службова інформація
 
 ```
+
+# Run project
+```
+python main.py
+```
